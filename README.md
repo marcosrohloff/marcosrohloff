@@ -8,7 +8,9 @@ Opa, eu sou Marcos Fernando Rohloff
 #### Full-Stack Developer
 
 👩‍🎓 Graduado em Sistemas de Informação pela Fasul/FAG em 2008
+
 🧠 Acredito que conhecimento nunca é demais. E a única coisa que não pode ser tirada de nós.
+
 ❤️ Desenvolvimento de sistemas / Devops
 
 
