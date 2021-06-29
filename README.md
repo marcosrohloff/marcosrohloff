@@ -13,4 +13,26 @@ Opa, eu sou Marcos Fernando Rohloff
 
 ❤️ Desenvolvimento de sistemas / Devops
 
+#### Linguagens de Programação
+
+- Java
+- NodeJS
+- Python
+
+#### Frameworks
+
+- Spring Boot
+- JavaServerFaces
+- Primefaces
+- BootFaces
+- JPA/Hibernate
+- Python Django(Inicial)
+
+#### Banco de Dados
+
+- Oracle
+- Mysql
+- MongoDB(iniciando projetos)
+
+
 
