@@ -11,13 +11,22 @@ Opa, eu sou Marcos Fernando Rohloff
 
 🧠 Acredito que conhecimento nunca é demais. E a única coisa que não pode ser tirada de nós.
 
-❤️ Desenvolvimento de sistemas / Devops
+❤️ Desenvolvimento de sistemas / Devops / LINUX!!
 
 #### Linguagens de Programação
 
 - Java
 - NodeJS
 - Python
+
+#### Front-end
+
+- HTML
+- JavaScript
+- Angular
+- TypeScript
+- ReactJS (estudando)
+- React-Native (estudando)
 
 #### Frameworks
 
@@ -32,7 +41,11 @@ Opa, eu sou Marcos Fernando Rohloff
 
 - Oracle
 - Mysql
-- MongoDB(iniciando projetos)
+- MongoDB(iniciante)
 
+#### Cloud / DevOPS
 
+- OracleCloud (Curso BootCamp)
+- AWS (Curso BootCamp)
+- GoogleCloud (Curso BootCamp)
 
