@@ -58,7 +58,7 @@ Opa, eu sou Marcos Fernando Rohloff
 
 #### Conhecimentos Gerais
 - Metodologia Ageis - Scrum(Jira)
-- BIZAGI
+- Desenvolvimento BPM Bizagi
 - GIT/GITHUB
 - Maven
 - Tomcat
