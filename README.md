@@ -11,41 +11,45 @@ Opa, eu sou Marcos Fernando Rohloff
 
 🧠 Acredito que conhecimento nunca é demais. E a única coisa que não pode ser tirada de nós.
 
-❤️ Desenvolvimento de sistemas / Devops / LINUX!!
+❤️ Analista / Desenvolvedor de sistemas!
 
 #### Linguagens de Programação
 
 - Java
-- NodeJS
 - Python
+- NodeJS
+
+
+#### Back-end
+
+- Spring Boot
+- Spring Framework
+- RestAPI
+- MicroServiços
+- JavaServerFaces
+- JSP / Servlets
+- Primefaces
+- BootFaces
+- JPA/Hibernate
+- Python Django(Inicial)
+- DataScience (Estudando)
 
 #### Front-end
 
 - HTML
 - JavaScript
 - Angular
-- TypeScript
-- ReactJS (estudando)
-- React-Native (estudando)
-
-#### Frameworks
-
-- Spring Boot
-- JavaServerFaces
-- Primefaces
-- BootFaces
-- JPA/Hibernate
-- Python Django(Inicial)
+- TypeScript (basico)
+- React (basico)
 
 #### Banco de Dados
 
-- Oracle
+- Oracle (SQL Tuning)
 - Mysql
-- MongoDB(iniciante)
+- Postgres
+- MongoDB
 
-#### Cloud / DevOPS
-
-- OracleCloud (Curso BootCamp)
-- AWS (Curso BootCamp)
-- GoogleCloud (Curso BootCamp)
+#### Demais
+- Docker
+- Kubernetes
 
