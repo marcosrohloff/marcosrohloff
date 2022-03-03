@@ -33,6 +33,7 @@ Opa, eu sou Marcos Fernando Rohloff
 - JPA/Hibernate
 - RabbitMQ
 - Python Django(Inicial)
+- NodeJS (basico)
 - DataScience (Estudando)
 
 #### ERP
@@ -56,6 +57,7 @@ Opa, eu sou Marcos Fernando Rohloff
 - MongoDB
 
 #### Conhecimentos Gerais
+- Metodologia Ageis - Scrum(Jira)
 - GIT/GITHUB
 - Maven
 - Tomcat
