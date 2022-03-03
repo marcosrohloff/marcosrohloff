@@ -31,12 +31,18 @@ Opa, eu sou Marcos Fernando Rohloff
 - Primefaces
 - BootFaces
 - JPA/Hibernate
+- RabbitMQ
 - Python Django(Inicial)
 - DataScience (Estudando)
 
+#### ERP
+ - Intergração entre sistemas ERP(Senior Sistemas), SOA, WSDL
+ - Customizações SQL, Relatórios e parametrizações do ERP(Senior Sistemas)
+
 #### Front-end
 
-- HTML
+- HTML5
+- CSS
 - JavaScript
 - Angular
 - TypeScript (basico)
@@ -49,7 +55,10 @@ Opa, eu sou Marcos Fernando Rohloff
 - Postgres
 - MongoDB
 
-#### Demais
+#### Conhecimentos Gerais
+- GIT/GITHUB
+- Maven
+- Tomcat
 - Docker
 - Kubernetes
 
