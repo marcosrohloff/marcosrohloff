@@ -17,10 +17,8 @@ Opa, eu sou Marcos Fernando Rohloff
 
 - Java
 - Python
-- NodeJS
 
-
-#### Back-end
+#### Backend
 
 - Spring Boot
 - Spring Framework
@@ -40,7 +38,7 @@ Opa, eu sou Marcos Fernando Rohloff
  - Intergração entre sistemas ERP(Senior Sistemas), SOA, WSDL
  - Customizações SQL, Relatórios e parametrizações do ERP(Senior Sistemas)
 
-#### Front-end
+#### Frontend
 
 - HTML5
 - CSS
