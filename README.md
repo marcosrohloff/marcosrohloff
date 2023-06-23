@@ -8,6 +8,7 @@ Opa, eu sou Marcos Fernando Rohloff
 #### Full-Stack Developer
 
 👩‍🎓 Graduado em Sistemas de Informação pela Fasul/FAG em 2008
+👩‍🎓 Pós-Graduação em Oracle Administração e Desenvolvimento de Aplicações Corporativas (2016)
 
 🧠 Acredito que conhecimento nunca é demais. E a única coisa que não pode ser tirada de nós.
 
@@ -22,17 +23,17 @@ Opa, eu sou Marcos Fernando Rohloff
 
 - Spring Boot
 - Spring Framework
-- RestAPI
+- Quarkus
+- Rest e RestAPI
 - MicroServiços
 - JavaServerFaces
-- JSP / Servlets
+- JSP / Servlets (JEE)
 - Primefaces
 - BootFaces
 - JPA/Hibernate
 - RabbitMQ
 - Python Django(Inicial)
 - NodeJS (basico)
-- DataScience (Estudando)
 
 #### ERP
  - Intergração entre sistemas ERP(Senior Sistemas), SOA, WSDL
@@ -43,13 +44,13 @@ Opa, eu sou Marcos Fernando Rohloff
 - HTML5
 - CSS
 - JavaScript
-- Angular
-- TypeScript (basico)
 - React (basico)
+- TypeScript (basico)
+- NestJS (basico)
 
 #### Banco de Dados
 
-- Oracle (SQL Tuning)
+- Oracle (Linux, Windows, SQL Tuning)
 - Mysql
 - Postgres
 - MongoDB
